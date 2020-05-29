@@ -7,7 +7,7 @@ Please make sure the PR build is **GREEN** and all Jenkins errors are resolved B
 **Link all feature tickets included in this PR**
 - [TICKET-123](http://ticket.jira.com)
 
-**Link to Nomad-Stage PR (or dev if no stage tier)**
+**Link to PR (or dev if no stage tier)**
 - [PR LINK](https://github)
 
 ## QE Checklist to be completed before merging
